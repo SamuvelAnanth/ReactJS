@@ -1,0 +1,10 @@
+input{
+    width:146px;
+}
+.reglab{
+    float: right;
+    text-align: justify;
+}
+#gender{
+    width:15px
+}
